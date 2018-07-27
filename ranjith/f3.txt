@@ -1,2 +1,3 @@
-this is test file 3
-this is only for testing
+this is test file
+this i want to check after commit
+here i am changing three files
