@@ -1,3 +1,2 @@
-this is test file
-this i want to check after commit
-here i am changing three files
+thi si the file2
+herre am adding commit meesage
