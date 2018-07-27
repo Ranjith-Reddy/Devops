@@ -1,3 +1,5 @@
 this is test file
 this i want to check after commit
 here i am changing three files
+thi is teh file1
+here is the file 1
